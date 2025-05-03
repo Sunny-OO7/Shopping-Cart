@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Book",
-    "price": 10.99,
+    "price": 500,
     "imgUrl": "/imgs/book.jpg"
   },
   {
@@ -14,13 +14,13 @@
   {
     "id": 3,
     "name": "Banana",
-    "price": 1.05,
+    "price": 50,
     "imgUrl": "/imgs/banana.jpg"
   },
   {
     "id": 4,
     "name": "Car",
-    "price": 14000,
+    "price": 1400000,
     "imgUrl": "/imgs/car.png"
   }
 ]
